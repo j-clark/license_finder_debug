@@ -1,0 +1,6 @@
+---
+whitelist:
+- MIT
+
+dependencies_file_dir: './doc/'
+project_name: 'license finder debug'
